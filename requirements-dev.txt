@@ -1,0 +1,3 @@
+kivy>=2.3.0
+Pillow>=10.0
+androidstorage4kivy>=0.1.0
